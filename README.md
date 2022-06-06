@@ -1,1 +1,2 @@
-# landing-page
+# Landing Page
+This website uses all of the HTML and CSS concepts that I have learnt thus far, including flexboxes and CSS selectors. This project aims to make a website that looks appealing to the user and use common web design layouts. 
